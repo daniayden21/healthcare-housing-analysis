@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Data: large or re-downloadable files
+data/*
+!data/ggz_manual.csv
